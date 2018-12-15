@@ -754,6 +754,15 @@ const mapping = {
     height: 2162,
     internalUrl: 'sanity',
     tags: ['dev', 'creative']
+  },
+  'friday-digital': {
+    title: 'FRIDAY DIGITAL',
+    link: 'https://friday.kodansha.co.jp',
+    src: '/static/images/showcases/friday-digital.jpg',
+    width: 3836,
+    height: 2200,
+    internalUrl: 'friday-digital',
+    tags: ['news', 'entertainment']
   }
 };
 
