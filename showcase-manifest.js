@@ -97,7 +97,8 @@ const sortOrder = [
   'garticio',
   'trip',
   'material-ui',
-  'framer'
+  'framer',
+  'friday-digital'
 ];
 
 const mapping = {
